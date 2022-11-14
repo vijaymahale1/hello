@@ -1,0 +1,26 @@
+class vijay{
+
+
+String name;
+int price;
+
+vijay(String name,int price){
+
+this.name=name;
+this.price=price;
+
+system.out.println(this.name+"  &  "+this.price);
+
+
+public static void main(String[] args){
+
+system.out.println("name "+"  &  "+" price");
+
+vijay a1=new vijay("sonimobile",40000);
+
+
+vijay a1=new vijay("samsung",50000);
+
+
+vijay a1=new vijay("Redmimobile",30000);
+
